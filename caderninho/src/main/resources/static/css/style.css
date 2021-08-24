@@ -1,9 +1,19 @@
+
 #image-logo {
 	width: 120%;
 	height: 120%;
-
 }
 
 .navbar-brand {
 	padding-top: 12px;
+}
+
+.panel-default {
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.navbar-label, .alt {
+	font-size:larger;
+	color:silver;
 }
